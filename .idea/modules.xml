@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/corso-spring-data-jpa/corso-spring-data-jpa.iml" filepath="$PROJECT_DIR$/corso-spring-data-jpa/corso-spring-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-prosjekter3.iml" filepath="$PROJECT_DIR$/.idea/java-prosjekter3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/school-of-rock/school-of-rock.iml" filepath="$PROJECT_DIR$/school-of-rock/school-of-rock.iml" />
+    </modules>
+  </component>
+</project>
