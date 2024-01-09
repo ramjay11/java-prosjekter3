@@ -12,10 +12,12 @@
         <module name="corso-spring-data-jpa" />
         <module name="school-of-rock" />
         <module name="spring-mongo-atlas" />
+        <module name="diagrammql-puffer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="corso-spring-data-jpa" target="19" />
+      <module name="diagrammql-puffer" target="17" />
       <module name="jwt-sicherheit-leitfaden" target="19" />
       <module name="osasto-kevat-syvyys" target="19" />
       <module name="school-of-rock" target="19" />
@@ -25,6 +27,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="corso-spring-data-jpa" options="-parameters" />
+      <module name="diagrammql-puffer" options="-parameters" />
       <module name="jwt-sicherheit-leitfaden" options="-parameters" />
       <module name="osasto-kevat-syvyys" options="-parameters" />
       <module name="school-of-rock" options="-parameters" />

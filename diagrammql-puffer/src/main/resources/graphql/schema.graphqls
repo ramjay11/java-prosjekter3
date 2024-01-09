@@ -1,0 +1,22 @@
+type Spieler {
+    id : ID!
+    name : String
+    team : Team
+}
+
+enum Team {
+    HEER,
+    LUFTWAFFE,
+    KRIEGSMARINE
+}
+
+type Query {
+    findAll : [Spieler]
+    findOne(id: ID) : Spieler
+}
+
+type Mutation {
+    create(name : String, team : Team) : Spieler
+    update(id : ID, name : String, team : Team) : Spieler
+    delete(id : ID) : Spieler
+}

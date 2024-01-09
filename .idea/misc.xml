@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/spring-mongo-atlas/pom.xml" />
         <option value="$PROJECT_DIR$/osasto-kevat-syvyys/pom.xml" />
         <option value="$PROJECT_DIR$/jwt-sicherheit-leitfaden/pom.xml" />
+        <option value="$PROJECT_DIR$/diagrammql-puffer/pom.xml" />
       </list>
     </option>
   </component>
