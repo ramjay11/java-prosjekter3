@@ -9,14 +9,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="osasto-kevat-syvyys" />
         <module name="jwt-sicherheit-leitfaden" />
+        <module name="demoaspect-georienteerd-programmering-buffer" />
         <module name="corso-spring-data-jpa" />
         <module name="school-of-rock" />
         <module name="spring-mongo-atlas" />
         <module name="diagrammql-puffer" />
+        <module name="couchbase-technik-leitfaden" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="corso-spring-data-jpa" target="19" />
+      <module name="couchbase-technik-leitfaden" target="17" />
+      <module name="demoaspect-georienteerd-programmering-buffer" target="17" />
       <module name="diagrammql-puffer" target="17" />
       <module name="jwt-sicherheit-leitfaden" target="19" />
       <module name="osasto-kevat-syvyys" target="19" />
@@ -27,6 +31,8 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="corso-spring-data-jpa" options="-parameters" />
+      <module name="couchbase-technik-leitfaden" options="-parameters" />
+      <module name="demoaspect-georienteerd-programmering-buffer" options="-parameters" />
       <module name="diagrammql-puffer" options="-parameters" />
       <module name="jwt-sicherheit-leitfaden" options="-parameters" />
       <module name="osasto-kevat-syvyys" options="-parameters" />

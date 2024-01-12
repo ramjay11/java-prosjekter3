@@ -1,0 +1,12 @@
+package com.ramjava.demoaspect.georienteerd.programmering.buffer.config;
+
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.EnableAspectJAutoProxy;
+
+@Configuration
+@ComponentScan(basePackages = "com/ramjava/demoaspect/georienteerd/programmering/buffer")
+@EnableAspectJAutoProxy
+public class BeanConfig {
+
+}

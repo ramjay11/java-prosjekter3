@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/corso-spring-data-jpa/corso-spring-data-jpa.iml" filepath="$PROJECT_DIR$/corso-spring-data-jpa/corso-spring-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/couchbase-technik-leitfaden/couchbase-technik-leitfaden.iml" filepath="$PROJECT_DIR$/couchbase-technik-leitfaden/couchbase-technik-leitfaden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoaspect-georienteerd-programmering-buffer/demoaspect-georienteerd-programmering-buffer.iml" filepath="$PROJECT_DIR$/demoaspect-georienteerd-programmering-buffer/demoaspect-georienteerd-programmering-buffer.iml" />
       <module fileurl="file://$PROJECT_DIR$/diagrammql-puffer/diagrammql-puffer.iml" filepath="$PROJECT_DIR$/diagrammql-puffer/diagrammql-puffer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-prosjekter3.iml" filepath="$PROJECT_DIR$/.idea/java-prosjekter3.iml" />
       <module fileurl="file://$PROJECT_DIR$/jwt-sicherheit-leitfaden/jwt-sicherheit-leitfaden.iml" filepath="$PROJECT_DIR$/jwt-sicherheit-leitfaden/jwt-sicherheit-leitfaden.iml" />
