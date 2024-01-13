@@ -11,6 +11,7 @@
         <module name="jwt-sicherheit-leitfaden" />
         <module name="demoaspect-georienteerd-programmering-buffer" />
         <module name="corso-spring-data-jpa" />
+        <module name="transactioneel-bufferend" />
         <module name="school-of-rock" />
         <module name="spring-mongo-atlas" />
         <module name="diagrammql-puffer" />
@@ -26,6 +27,7 @@
       <module name="osasto-kevat-syvyys" target="19" />
       <module name="school-of-rock" target="19" />
       <module name="spring-mongo-atlas" target="19" />
+      <module name="transactioneel-bufferend" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -38,6 +40,7 @@
       <module name="osasto-kevat-syvyys" options="-parameters" />
       <module name="school-of-rock" options="-parameters" />
       <module name="spring-mongo-atlas" options="-parameters" />
+      <module name="transactioneel-bufferend" options="-parameters" />
     </option>
   </component>
 </project>
