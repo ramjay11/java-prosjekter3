@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/lente-gegevens-jpa/pom.xml" />
         <option value="$PROJECT_DIR$/lente-annotaties/pom.xml" />
         <option value="$PROJECT_DIR$/overwinteren-grondbeginselen/pom.xml" />
+        <option value="$PROJECT_DIR$/lente-ioc-express/pom.xml" />
       </list>
     </option>
   </component>

@@ -7,18 +7,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="demoaspect-georienteerd-programmering-buffer" />
+        <module name="seleniumexpress-springioc" />
+        <module name="overwinteren-grondbeginselen" />
+        <module name="diagrammql-puffer" />
+        <module name="couchbase-technik-leitfaden" />
         <module name="osasto-kevat-syvyys" />
         <module name="jwt-sicherheit-leitfaden" />
-        <module name="demoaspect-georienteerd-programmering-buffer" />
         <module name="corso-spring-data-jpa" />
         <module name="transactioneel-bufferend" />
         <module name="lente-gegevens-jpa" />
         <module name="lente-annotaties" />
-        <module name="overwinteren-grondbeginselen" />
         <module name="school-of-rock" />
         <module name="spring-mongo-atlas" />
-        <module name="diagrammql-puffer" />
-        <module name="couchbase-technik-leitfaden" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -32,6 +33,7 @@
       <module name="osasto-kevat-syvyys" target="19" />
       <module name="overwinteren-grondbeginselen" target="17" />
       <module name="school-of-rock" target="19" />
+      <module name="seleniumexpress-springioc" target="17" />
       <module name="spring-mongo-atlas" target="19" />
       <module name="transactioneel-bufferend" target="17" />
     </bytecodeTargetLevel>
@@ -47,6 +49,7 @@
       <module name="lente-gegevens-jpa" options="-parameters" />
       <module name="osasto-kevat-syvyys" options="-parameters" />
       <module name="school-of-rock" options="-parameters" />
+      <module name="seleniumexpress-springioc" options="-parameters" />
       <module name="spring-mongo-atlas" options="-parameters" />
       <module name="transactioneel-bufferend" options="-parameters" />
     </option>

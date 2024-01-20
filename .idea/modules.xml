@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/osasto-kevat-syvyys/osasto-kevat-syvyys.iml" filepath="$PROJECT_DIR$/osasto-kevat-syvyys/osasto-kevat-syvyys.iml" />
       <module fileurl="file://$PROJECT_DIR$/overwinteren-grondbeginselen/overwinteren-grondbeginselen.iml" filepath="$PROJECT_DIR$/overwinteren-grondbeginselen/overwinteren-grondbeginselen.iml" />
       <module fileurl="file://$PROJECT_DIR$/school-of-rock/school-of-rock.iml" filepath="$PROJECT_DIR$/school-of-rock/school-of-rock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lente-ioc-express/seleniumexpress-springioc.iml" filepath="$PROJECT_DIR$/lente-ioc-express/seleniumexpress-springioc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-mongo-atlas/spring-mongo-atlas.iml" filepath="$PROJECT_DIR$/spring-mongo-atlas/spring-mongo-atlas.iml" />
       <module fileurl="file://$PROJECT_DIR$/transactioneel-bufferend/transactioneel-bufferend.iml" filepath="$PROJECT_DIR$/transactioneel-bufferend/transactioneel-bufferend.iml" />
     </modules>
