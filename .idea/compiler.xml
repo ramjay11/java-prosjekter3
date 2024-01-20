@@ -12,6 +12,9 @@
         <module name="demoaspect-georienteerd-programmering-buffer" />
         <module name="corso-spring-data-jpa" />
         <module name="transactioneel-bufferend" />
+        <module name="lente-gegevens-jpa" />
+        <module name="lente-annotaties" />
+        <module name="overwinteren-grondbeginselen" />
         <module name="school-of-rock" />
         <module name="spring-mongo-atlas" />
         <module name="diagrammql-puffer" />
@@ -24,7 +27,10 @@
       <module name="demoaspect-georienteerd-programmering-buffer" target="17" />
       <module name="diagrammql-puffer" target="17" />
       <module name="jwt-sicherheit-leitfaden" target="19" />
+      <module name="lente-annotaties" target="17" />
+      <module name="lente-gegevens-jpa" target="17" />
       <module name="osasto-kevat-syvyys" target="19" />
+      <module name="overwinteren-grondbeginselen" target="17" />
       <module name="school-of-rock" target="19" />
       <module name="spring-mongo-atlas" target="19" />
       <module name="transactioneel-bufferend" target="17" />
@@ -37,6 +43,8 @@
       <module name="demoaspect-georienteerd-programmering-buffer" options="-parameters" />
       <module name="diagrammql-puffer" options="-parameters" />
       <module name="jwt-sicherheit-leitfaden" options="-parameters" />
+      <module name="lente-annotaties" options="-parameters" />
+      <module name="lente-gegevens-jpa" options="-parameters" />
       <module name="osasto-kevat-syvyys" options="-parameters" />
       <module name="school-of-rock" options="-parameters" />
       <module name="spring-mongo-atlas" options="-parameters" />

@@ -13,7 +13,6 @@ import org.springframework.transaction.annotation.Transactional;
 public class MedewerkersDienst {
     @Autowired
     private MedewerkersRepo medewerkersRepo;
-
     @Autowired
     private AfdelingsRepo afdelingsRepo;
     // If there are any exceptions, @Transactional will roll backed on both medewerker/afdeling tables,

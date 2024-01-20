@@ -11,8 +11,14 @@
     <file url="file://$PROJECT_DIR$/diagrammql-puffer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jwt-sicherheit-leitfaden/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jwt-sicherheit-leitfaden/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lente-annotaties/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lente-annotaties/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lente-gegevens-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lente-gegevens-jpa/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/osasto-kevat-syvyys/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/osasto-kevat-syvyys/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/overwinteren-grondbeginselen/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/overwinteren-grondbeginselen/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/school-of-rock/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/school-of-rock/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-mongo-atlas/src/main/java" charset="UTF-8" />

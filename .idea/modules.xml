@@ -8,7 +8,10 @@
       <module fileurl="file://$PROJECT_DIR$/diagrammql-puffer/diagrammql-puffer.iml" filepath="$PROJECT_DIR$/diagrammql-puffer/diagrammql-puffer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-prosjekter3.iml" filepath="$PROJECT_DIR$/.idea/java-prosjekter3.iml" />
       <module fileurl="file://$PROJECT_DIR$/jwt-sicherheit-leitfaden/jwt-sicherheit-leitfaden.iml" filepath="$PROJECT_DIR$/jwt-sicherheit-leitfaden/jwt-sicherheit-leitfaden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lente-annotaties/lente-annotaties.iml" filepath="$PROJECT_DIR$/lente-annotaties/lente-annotaties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lente-gegevens-jpa/lente-gegevens-jpa.iml" filepath="$PROJECT_DIR$/lente-gegevens-jpa/lente-gegevens-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/osasto-kevat-syvyys/osasto-kevat-syvyys.iml" filepath="$PROJECT_DIR$/osasto-kevat-syvyys/osasto-kevat-syvyys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overwinteren-grondbeginselen/overwinteren-grondbeginselen.iml" filepath="$PROJECT_DIR$/overwinteren-grondbeginselen/overwinteren-grondbeginselen.iml" />
       <module fileurl="file://$PROJECT_DIR$/school-of-rock/school-of-rock.iml" filepath="$PROJECT_DIR$/school-of-rock/school-of-rock.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-mongo-atlas/spring-mongo-atlas.iml" filepath="$PROJECT_DIR$/spring-mongo-atlas/spring-mongo-atlas.iml" />
       <module fileurl="file://$PROJECT_DIR$/transactioneel-bufferend/transactioneel-bufferend.iml" filepath="$PROJECT_DIR$/transactioneel-bufferend/transactioneel-bufferend.iml" />
