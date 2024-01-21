@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/demoaspect-georienteerd-programmering-buffer/demoaspect-georienteerd-programmering-buffer.iml" filepath="$PROJECT_DIR$/demoaspect-georienteerd-programmering-buffer/demoaspect-georienteerd-programmering-buffer.iml" />
       <module fileurl="file://$PROJECT_DIR$/diagrammql-puffer/diagrammql-puffer.iml" filepath="$PROJECT_DIR$/diagrammql-puffer/diagrammql-puffer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-prosjekter3.iml" filepath="$PROJECT_DIR$/.idea/java-prosjekter3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwt-autorisierungsauthentifizierung/jwt-autorisierungsauthentifizierung.iml" filepath="$PROJECT_DIR$/jwt-autorisierungsauthentifizierung/jwt-autorisierungsauthentifizierung.iml" />
       <module fileurl="file://$PROJECT_DIR$/jwt-sicherheit-leitfaden/jwt-sicherheit-leitfaden.iml" filepath="$PROJECT_DIR$/jwt-sicherheit-leitfaden/jwt-sicherheit-leitfaden.iml" />
       <module fileurl="file://$PROJECT_DIR$/lente-annotaties/lente-annotaties.iml" filepath="$PROJECT_DIR$/lente-annotaties/lente-annotaties.iml" />
       <module fileurl="file://$PROJECT_DIR$/lente-gegevens-jpa/lente-gegevens-jpa.iml" filepath="$PROJECT_DIR$/lente-gegevens-jpa/lente-gegevens-jpa.iml" />

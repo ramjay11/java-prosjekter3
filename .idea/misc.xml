@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/overwinteren-grondbeginselen/pom.xml" />
         <option value="$PROJECT_DIR$/lente-ioc-express/pom.xml" />
         <option value="$PROJECT_DIR$/veer-automatische-bedrading-express/pom.xml" />
+        <option value="$PROJECT_DIR$/jwt-autorisierungsauthentifizierung/pom.xml" />
       </list>
     </option>
   </component>

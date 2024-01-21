@@ -21,6 +21,7 @@
         <module name="veer-automatische-bedrading-express" />
         <module name="school-of-rock" />
         <module name="spring-mongo-atlas" />
+        <module name="jwt-autorisierungsauthentifizierung" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -28,6 +29,7 @@
       <module name="couchbase-technik-leitfaden" target="17" />
       <module name="demoaspect-georienteerd-programmering-buffer" target="17" />
       <module name="diagrammql-puffer" target="17" />
+      <module name="jwt-autorisierungsauthentifizierung" target="1.5" />
       <module name="jwt-sicherheit-leitfaden" target="19" />
       <module name="lente-annotaties" target="17" />
       <module name="lente-gegevens-jpa" target="17" />
