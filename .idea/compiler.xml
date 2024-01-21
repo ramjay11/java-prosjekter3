@@ -18,6 +18,7 @@
         <module name="transactioneel-bufferend" />
         <module name="lente-gegevens-jpa" />
         <module name="lente-annotaties" />
+        <module name="veer-automatische-bedrading-express" />
         <module name="school-of-rock" />
         <module name="spring-mongo-atlas" />
       </profile>
@@ -36,6 +37,7 @@
       <module name="seleniumexpress-springioc" target="17" />
       <module name="spring-mongo-atlas" target="19" />
       <module name="transactioneel-bufferend" target="17" />
+      <module name="veer-automatische-bedrading-express" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -52,6 +54,7 @@
       <module name="seleniumexpress-springioc" options="-parameters" />
       <module name="spring-mongo-atlas" options="-parameters" />
       <module name="transactioneel-bufferend" options="-parameters" />
+      <module name="veer-automatische-bedrading-express" options="-parameters" />
     </option>
   </component>
 </project>

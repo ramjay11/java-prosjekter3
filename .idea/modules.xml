@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/lente-ioc-express/seleniumexpress-springioc.iml" filepath="$PROJECT_DIR$/lente-ioc-express/seleniumexpress-springioc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-mongo-atlas/spring-mongo-atlas.iml" filepath="$PROJECT_DIR$/spring-mongo-atlas/spring-mongo-atlas.iml" />
       <module fileurl="file://$PROJECT_DIR$/transactioneel-bufferend/transactioneel-bufferend.iml" filepath="$PROJECT_DIR$/transactioneel-bufferend/transactioneel-bufferend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/veer-automatische-bedrading-express/veer-automatische-bedrading-express.iml" filepath="$PROJECT_DIR$/veer-automatische-bedrading-express/veer-automatische-bedrading-express.iml" />
     </modules>
   </component>
 </project>
