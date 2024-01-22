@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="lente-bonen-scopes" />
         <module name="demoaspect-georienteerd-programmering-buffer" />
         <module name="seleniumexpress-springioc" />
         <module name="overwinteren-grondbeginselen" />
@@ -38,6 +39,7 @@
       <module name="jwt-autorisierungsauthentifizierung" target="17" />
       <module name="jwt-sicherheit-leitfaden" target="19" />
       <module name="lente-annotaties" target="17" />
+      <module name="lente-bonen-scopes" target="17" />
       <module name="lente-gegevens-jpa" target="17" />
       <module name="osasto-kevat-syvyys" target="19" />
       <module name="overwinteren-grondbeginselen" target="17" />
@@ -60,6 +62,7 @@
       <module name="jwt-autorisierungsauthentifizierung" options="-parameters" />
       <module name="jwt-sicherheit-leitfaden" options="-parameters" />
       <module name="lente-annotaties" options="-parameters" />
+      <module name="lente-bonen-scopes" options="-parameters" />
       <module name="lente-gegevens-jpa" options="-parameters" />
       <module name="osasto-kevat-syvyys" options="-parameters" />
       <module name="school-of-rock" options="-parameters" />

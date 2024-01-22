@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/jwt-autorisierungsauthentifizierung/jwt-autorisierungsauthentifizierung.iml" filepath="$PROJECT_DIR$/jwt-autorisierungsauthentifizierung/jwt-autorisierungsauthentifizierung.iml" />
       <module fileurl="file://$PROJECT_DIR$/jwt-sicherheit-leitfaden/jwt-sicherheit-leitfaden.iml" filepath="$PROJECT_DIR$/jwt-sicherheit-leitfaden/jwt-sicherheit-leitfaden.iml" />
       <module fileurl="file://$PROJECT_DIR$/lente-annotaties/lente-annotaties.iml" filepath="$PROJECT_DIR$/lente-annotaties/lente-annotaties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lente-bonen-scopes/lente-bonen-scopes.iml" filepath="$PROJECT_DIR$/lente-bonen-scopes/lente-bonen-scopes.iml" />
       <module fileurl="file://$PROJECT_DIR$/lente-gegevens-jpa/lente-gegevens-jpa.iml" filepath="$PROJECT_DIR$/lente-gegevens-jpa/lente-gegevens-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/osasto-kevat-syvyys/osasto-kevat-syvyys.iml" filepath="$PROJECT_DIR$/osasto-kevat-syvyys/osasto-kevat-syvyys.iml" />
       <module fileurl="file://$PROJECT_DIR$/overwinteren-grondbeginselen/overwinteren-grondbeginselen.iml" filepath="$PROJECT_DIR$/overwinteren-grondbeginselen/overwinteren-grondbeginselen.iml" />
