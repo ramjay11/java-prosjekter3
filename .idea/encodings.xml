@@ -13,6 +13,8 @@
     <file url="file://$PROJECT_DIR$/fruhling-daten-jdbc/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fruhling-daten-jpa/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fruhling-daten-jpa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fruhling-sicherheit-jwt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fruhling-sicherheit-jwt/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jwt-autorisierungsauthentifizierung/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jwt-autorisierungsauthentifizierung/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jwt-sicherheit-leitfaden/src/main/java" charset="UTF-8" />

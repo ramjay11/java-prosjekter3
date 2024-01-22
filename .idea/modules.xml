@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/diagrammql-puffer/diagrammql-puffer.iml" filepath="$PROJECT_DIR$/diagrammql-puffer/diagrammql-puffer.iml" />
       <module fileurl="file://$PROJECT_DIR$/fruhling-daten-jdbc/fruhling-daten-jdbc.iml" filepath="$PROJECT_DIR$/fruhling-daten-jdbc/fruhling-daten-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/fruhling-daten-jpa/fruhling-daten-jpa.iml" filepath="$PROJECT_DIR$/fruhling-daten-jpa/fruhling-daten-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fruhling-sicherheit-jwt/fruhling-sicherheit-jwt.iml" filepath="$PROJECT_DIR$/fruhling-sicherheit-jwt/fruhling-sicherheit-jwt.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-prosjekter3.iml" filepath="$PROJECT_DIR$/.idea/java-prosjekter3.iml" />
       <module fileurl="file://$PROJECT_DIR$/jwt-autorisierungsauthentifizierung/jwt-autorisierungsauthentifizierung.iml" filepath="$PROJECT_DIR$/jwt-autorisierungsauthentifizierung/jwt-autorisierungsauthentifizierung.iml" />
       <module fileurl="file://$PROJECT_DIR$/jwt-sicherheit-leitfaden/jwt-sicherheit-leitfaden.iml" filepath="$PROJECT_DIR$/jwt-sicherheit-leitfaden/jwt-sicherheit-leitfaden.iml" />

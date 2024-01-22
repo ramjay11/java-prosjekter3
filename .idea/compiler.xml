@@ -14,6 +14,7 @@
         <module name="couchbase-technik-leitfaden" />
         <module name="osasto-kevat-syvyys" />
         <module name="jwt-sicherheit-leitfaden" />
+        <module name="fruhling-sicherheit-jwt" />
         <module name="corso-spring-data-jpa" />
         <module name="transactioneel-bufferend" />
         <module name="fruhling-daten-jpa" />
@@ -33,6 +34,7 @@
       <module name="diagrammql-puffer" target="17" />
       <module name="fruhling-daten-jdbc" target="17" />
       <module name="fruhling-daten-jpa" target="17" />
+      <module name="fruhling-sicherheit-jwt" target="17" />
       <module name="jwt-autorisierungsauthentifizierung" target="17" />
       <module name="jwt-sicherheit-leitfaden" target="19" />
       <module name="lente-annotaties" target="17" />
@@ -54,6 +56,7 @@
       <module name="diagrammql-puffer" options="-parameters" />
       <module name="fruhling-daten-jdbc" options="-parameters" />
       <module name="fruhling-daten-jpa" options="-parameters" />
+      <module name="fruhling-sicherheit-jwt" options="-parameters" />
       <module name="jwt-autorisierungsauthentifizierung" options="-parameters" />
       <module name="jwt-sicherheit-leitfaden" options="-parameters" />
       <module name="lente-annotaties" options="-parameters" />

@@ -20,6 +20,7 @@
         <option value="$PROJECT_DIR$/jwt-autorisierungsauthentifizierung/pom.xml" />
         <option value="$PROJECT_DIR$/fruhling-daten-jdbc/pom.xml" />
         <option value="$PROJECT_DIR$/fruhling-daten-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/fruhling-sicherheit-jwt/pom.xml" />
       </list>
     </option>
   </component>
