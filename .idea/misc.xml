@@ -18,6 +18,7 @@
         <option value="$PROJECT_DIR$/lente-ioc-express/pom.xml" />
         <option value="$PROJECT_DIR$/veer-automatische-bedrading-express/pom.xml" />
         <option value="$PROJECT_DIR$/jwt-autorisierungsauthentifizierung/pom.xml" />
+        <option value="$PROJECT_DIR$/fruhling-daten-jdbc/pom.xml" />
       </list>
     </option>
   </component>

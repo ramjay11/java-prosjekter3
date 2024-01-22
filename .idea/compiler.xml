@@ -21,6 +21,7 @@
         <module name="veer-automatische-bedrading-express" />
         <module name="school-of-rock" />
         <module name="spring-mongo-atlas" />
+        <module name="fruhling-daten-jdbc" />
         <module name="jwt-autorisierungsauthentifizierung" />
       </profile>
     </annotationProcessing>
@@ -29,7 +30,8 @@
       <module name="couchbase-technik-leitfaden" target="17" />
       <module name="demoaspect-georienteerd-programmering-buffer" target="17" />
       <module name="diagrammql-puffer" target="17" />
-      <module name="jwt-autorisierungsauthentifizierung" target="1.5" />
+      <module name="fruhling-daten-jdbc" target="17" />
+      <module name="jwt-autorisierungsauthentifizierung" target="17" />
       <module name="jwt-sicherheit-leitfaden" target="19" />
       <module name="lente-annotaties" target="17" />
       <module name="lente-gegevens-jpa" target="17" />
@@ -48,6 +50,8 @@
       <module name="couchbase-technik-leitfaden" options="-parameters" />
       <module name="demoaspect-georienteerd-programmering-buffer" options="-parameters" />
       <module name="diagrammql-puffer" options="-parameters" />
+      <module name="fruhling-daten-jdbc" options="-parameters" />
+      <module name="jwt-autorisierungsauthentifizierung" options="-parameters" />
       <module name="jwt-sicherheit-leitfaden" options="-parameters" />
       <module name="lente-annotaties" options="-parameters" />
       <module name="lente-gegevens-jpa" options="-parameters" />
