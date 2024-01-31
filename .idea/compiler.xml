@@ -15,6 +15,7 @@
         <module name="couchbase-technik-leitfaden" />
         <module name="osasto-kevat-syvyys" />
         <module name="jwt-sicherheit-leitfaden" />
+        <module name="veer-beveiliging-met-jwt" />
         <module name="fruhling-sicherheit-jwt" />
         <module name="corso-spring-data-jpa" />
         <module name="transactioneel-bufferend" />
@@ -48,6 +49,7 @@
       <module name="spring-mongo-atlas" target="19" />
       <module name="transactioneel-bufferend" target="17" />
       <module name="veer-automatische-bedrading-express" target="17" />
+      <module name="veer-beveiliging-met-jwt" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -70,6 +72,7 @@
       <module name="spring-mongo-atlas" options="-parameters" />
       <module name="transactioneel-bufferend" options="-parameters" />
       <module name="veer-automatische-bedrading-express" options="-parameters" />
+      <module name="veer-beveiliging-met-jwt" options="-parameters" />
     </option>
   </component>
 </project>
