@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/bank-ansogning/bank-ansogning.iml" filepath="$PROJECT_DIR$/bank-ansogning/bank-ansogning.iml" />
       <module fileurl="file://$PROJECT_DIR$/corso-spring-data-jpa/corso-spring-data-jpa.iml" filepath="$PROJECT_DIR$/corso-spring-data-jpa/corso-spring-data-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/couchbase-technik-leitfaden/couchbase-technik-leitfaden.iml" filepath="$PROJECT_DIR$/couchbase-technik-leitfaden/couchbase-technik-leitfaden.iml" />
       <module fileurl="file://$PROJECT_DIR$/demoaspect-georienteerd-programmering-buffer/demoaspect-georienteerd-programmering-buffer.iml" filepath="$PROJECT_DIR$/demoaspect-georienteerd-programmering-buffer/demoaspect-georienteerd-programmering-buffer.iml" />

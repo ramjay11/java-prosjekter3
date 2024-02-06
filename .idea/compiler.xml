@@ -10,6 +10,7 @@
         <module name="lente-bonen-scopes" />
         <module name="demoaspect-georienteerd-programmering-buffer" />
         <module name="seleniumexpress-springioc" />
+        <module name="bank-ansogning" />
         <module name="overwinteren-grondbeginselen" />
         <module name="diagrammql-puffer" />
         <module name="couchbase-technik-leitfaden" />
@@ -30,6 +31,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="bank-ansogning" target="17" />
       <module name="corso-spring-data-jpa" target="19" />
       <module name="couchbase-technik-leitfaden" target="17" />
       <module name="demoaspect-georienteerd-programmering-buffer" target="17" />
@@ -54,6 +56,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bank-ansogning" options="-parameters" />
       <module name="corso-spring-data-jpa" options="-parameters" />
       <module name="couchbase-technik-leitfaden" options="-parameters" />
       <module name="demoaspect-georienteerd-programmering-buffer" options="-parameters" />
