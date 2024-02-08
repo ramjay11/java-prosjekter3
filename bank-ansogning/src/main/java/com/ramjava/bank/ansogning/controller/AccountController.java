@@ -24,6 +24,13 @@ public class AccountController {
         AccountDto accountDto = accountService.getAccountById(id);
         return ResponseEntity.ok(accountDto);
     }
+    // Patch konto
+    @PatchMapping("/{id}")
+    public ResponseEntity<AccountDto> patchAccount(@PathVariable Long id, @RequestBody AccountDto accountDto) {
+        AccountDto patchedAccount = accountService.patchAccount(id, accountDto);
+        return ResponseEntity.ok(patchedAccount);
+    }
+
     // Slet konto
     @DeleteMapping("/{id}")
     public ResponseEntity<String> deleteAccount(@PathVariable Long id) {

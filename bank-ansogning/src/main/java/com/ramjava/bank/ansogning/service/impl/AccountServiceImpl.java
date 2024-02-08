@@ -29,6 +29,21 @@ public class AccountServiceImpl implements AccountService {
     }
 
     @Override
+    public AccountDto patchAccount(Long id, AccountDto accountDto) {
+        Account existingAccount = repository.findById(id)
+                .orElseThrow(() -> new RuntimeException("Kontoen findes ikke"));
+        if (accountDto.getAccountHolderName() != null) {
+            existingAccount.setAccountHolderName(accountDto.getAccountHolderName());
+        }
+
+        if (accountDto.getBalance() != 0) {
+            existingAccount.setBalance(accountDto.getBalance());
+        }
+        Account patchAccount = repository.save(existingAccount);
+        return AccountMapper.mapToAccountDto(patchAccount);
+    }
+
+    @Override
     public void deleteAccount(Long id) {
         Account account = repository.findById(id)
                 .orElseThrow(() -> new RuntimeException("Kontoen findes ikke"));
