@@ -1,31 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="MavenProjectsManager">
-    <option name="originalFiles">
-      <list>
-        <option value="$PROJECT_DIR$/corso-spring-data-jpa/pom.xml" />
-        <option value="$PROJECT_DIR$/school-of-rock/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-mongo-atlas/pom.xml" />
-        <option value="$PROJECT_DIR$/osasto-kevat-syvyys/pom.xml" />
-        <option value="$PROJECT_DIR$/jwt-sicherheit-leitfaden/pom.xml" />
-        <option value="$PROJECT_DIR$/diagrammql-puffer/pom.xml" />
-        <option value="$PROJECT_DIR$/couchbase-technik-leitfaden/pom.xml" />
-        <option value="$PROJECT_DIR$/demoaspect-georienteerd-programmering-buffer/pom.xml" />
-        <option value="$PROJECT_DIR$/transactioneel-bufferend/pom.xml" />
-        <option value="$PROJECT_DIR$/lente-gegevens-jpa/pom.xml" />
-        <option value="$PROJECT_DIR$/lente-annotaties/pom.xml" />
-        <option value="$PROJECT_DIR$/overwinteren-grondbeginselen/pom.xml" />
-        <option value="$PROJECT_DIR$/lente-ioc-express/pom.xml" />
-        <option value="$PROJECT_DIR$/veer-automatische-bedrading-express/pom.xml" />
-        <option value="$PROJECT_DIR$/jwt-autorisierungsauthentifizierung/pom.xml" />
-        <option value="$PROJECT_DIR$/fruhling-daten-jdbc/pom.xml" />
-        <option value="$PROJECT_DIR$/fruhling-daten-jpa/pom.xml" />
-        <option value="$PROJECT_DIR$/fruhling-sicherheit-jwt/pom.xml" />
-        <option value="$PROJECT_DIR$/lente-bonen-scopes/pom.xml" />
-        <option value="$PROJECT_DIR$/veer-beveiliging-met-jwt/pom.xml" />
-        <option value="$PROJECT_DIR$/bank-ansogning/pom.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="21" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
 </project>
