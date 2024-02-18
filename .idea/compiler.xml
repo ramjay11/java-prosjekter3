@@ -7,27 +7,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="lente-bonen-scopes" />
-        <module name="demoaspect-georienteerd-programmering-buffer" />
-        <module name="seleniumexpress-springioc" />
-        <module name="bank-ansogning" />
-        <module name="overwinteren-grondbeginselen" />
-        <module name="diagrammql-puffer" />
-        <module name="couchbase-technik-leitfaden" />
-        <module name="osasto-kevat-syvyys" />
-        <module name="jwt-sicherheit-leitfaden" />
+        <module name="primavera-datos-relaciones" />
         <module name="veer-beveiliging-met-jwt" />
-        <module name="fruhling-sicherheit-jwt" />
-        <module name="corso-spring-data-jpa" />
-        <module name="transactioneel-bufferend" />
-        <module name="fruhling-daten-jpa" />
-        <module name="lente-gegevens-jpa" />
-        <module name="lente-annotaties" />
-        <module name="veer-automatische-bedrading-express" />
-        <module name="school-of-rock" />
-        <module name="spring-mongo-atlas" />
-        <module name="fruhling-daten-jdbc" />
-        <module name="jwt-autorisierungsauthentifizierung" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -46,6 +27,7 @@
       <module name="lente-gegevens-jpa" target="17" />
       <module name="osasto-kevat-syvyys" target="19" />
       <module name="overwinteren-grondbeginselen" target="17" />
+      <module name="primavera-datos-relaciones" target="17" />
       <module name="school-of-rock" target="19" />
       <module name="seleniumexpress-springioc" target="17" />
       <module name="spring-mongo-atlas" target="19" />
@@ -70,6 +52,7 @@
       <module name="lente-bonen-scopes" options="-parameters" />
       <module name="lente-gegevens-jpa" options="-parameters" />
       <module name="osasto-kevat-syvyys" options="-parameters" />
+      <module name="primavera-datos-relaciones" options="-parameters" />
       <module name="school-of-rock" options="-parameters" />
       <module name="seleniumexpress-springioc" options="-parameters" />
       <module name="spring-mongo-atlas" options="-parameters" />

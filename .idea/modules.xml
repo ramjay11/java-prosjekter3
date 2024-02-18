@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/bank-ansogning/bank-ansogning.iml" filepath="$PROJECT_DIR$/bank-ansogning/bank-ansogning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/corso-spring-data-jpa/corso-spring-data-jpa.iml" filepath="$PROJECT_DIR$/corso-spring-data-jpa/corso-spring-data-jpa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/couchbase-technik-leitfaden/couchbase-technik-leitfaden.iml" filepath="$PROJECT_DIR$/couchbase-technik-leitfaden/couchbase-technik-leitfaden.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demoaspect-georienteerd-programmering-buffer/demoaspect-georienteerd-programmering-buffer.iml" filepath="$PROJECT_DIR$/demoaspect-georienteerd-programmering-buffer/demoaspect-georienteerd-programmering-buffer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/diagrammql-puffer/diagrammql-puffer.iml" filepath="$PROJECT_DIR$/diagrammql-puffer/diagrammql-puffer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fruhling-daten-jdbc/fruhling-daten-jdbc.iml" filepath="$PROJECT_DIR$/fruhling-daten-jdbc/fruhling-daten-jdbc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fruhling-daten-jpa/fruhling-daten-jpa.iml" filepath="$PROJECT_DIR$/fruhling-daten-jpa/fruhling-daten-jpa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fruhling-sicherheit-jwt/fruhling-sicherheit-jwt.iml" filepath="$PROJECT_DIR$/fruhling-sicherheit-jwt/fruhling-sicherheit-jwt.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-prosjekter3.iml" filepath="$PROJECT_DIR$/.idea/java-prosjekter3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jwt-autorisierungsauthentifizierung/jwt-autorisierungsauthentifizierung.iml" filepath="$PROJECT_DIR$/jwt-autorisierungsauthentifizierung/jwt-autorisierungsauthentifizierung.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jwt-sicherheit-leitfaden/jwt-sicherheit-leitfaden.iml" filepath="$PROJECT_DIR$/jwt-sicherheit-leitfaden/jwt-sicherheit-leitfaden.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lente-annotaties/lente-annotaties.iml" filepath="$PROJECT_DIR$/lente-annotaties/lente-annotaties.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lente-bonen-scopes/lente-bonen-scopes.iml" filepath="$PROJECT_DIR$/lente-bonen-scopes/lente-bonen-scopes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lente-gegevens-jpa/lente-gegevens-jpa.iml" filepath="$PROJECT_DIR$/lente-gegevens-jpa/lente-gegevens-jpa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/osasto-kevat-syvyys/osasto-kevat-syvyys.iml" filepath="$PROJECT_DIR$/osasto-kevat-syvyys/osasto-kevat-syvyys.iml" />
-      <module fileurl="file://$PROJECT_DIR$/overwinteren-grondbeginselen/overwinteren-grondbeginselen.iml" filepath="$PROJECT_DIR$/overwinteren-grondbeginselen/overwinteren-grondbeginselen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/school-of-rock/school-of-rock.iml" filepath="$PROJECT_DIR$/school-of-rock/school-of-rock.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lente-ioc-express/seleniumexpress-springioc.iml" filepath="$PROJECT_DIR$/lente-ioc-express/seleniumexpress-springioc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-mongo-atlas/spring-mongo-atlas.iml" filepath="$PROJECT_DIR$/spring-mongo-atlas/spring-mongo-atlas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/transactioneel-bufferend/transactioneel-bufferend.iml" filepath="$PROJECT_DIR$/transactioneel-bufferend/transactioneel-bufferend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/veer-automatische-bedrading-express/veer-automatische-bedrading-express.iml" filepath="$PROJECT_DIR$/veer-automatische-bedrading-express/veer-automatische-bedrading-express.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primavera-datos-relaciones/primavera-datos-relaciones.iml" filepath="$PROJECT_DIR$/primavera-datos-relaciones/primavera-datos-relaciones.iml" />
       <module fileurl="file://$PROJECT_DIR$/veer-beveiliging-met-jwt/veer-beveiliging-met-jwt.iml" filepath="$PROJECT_DIR$/veer-beveiliging-met-jwt/veer-beveiliging-met-jwt.iml" />
     </modules>
   </component>
